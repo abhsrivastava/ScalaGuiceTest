@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mRunning com.abhi.ScalaGuiceTest [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/abhsrivastava/IdeaProjects/ScalaGuice/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/abhsrivastava/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/abhsrivastava/.ivy2/cache/net.codingwell/scala-guice_2.11/jars/scala-guice_2.11-4.1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/abhsrivastava/.ivy2/cache/com.google.inject/guice/jars/guice-4.1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/abhsrivastava/.ivy2/cache/javax.inject/javax.inject/jars/javax.inject-1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/abhsrivastava/.ivy2/cache/aopalliance/aopalliance/jars/aopalliance-1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/abhsrivastava/.ivy2/cache/com.google.guava/guava/bundles/guava-19.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/abhsrivastava/.ivy2/cache/com.google.inject.extensions/guice-multibindings/jars/guice-multibindings-4.1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/abhsrivastava/activator-dist-1.3.10/repository/com.google.code.findbugs/jsr305/3.0.1/jars/jsr305.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Thread-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted Thread-1[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
