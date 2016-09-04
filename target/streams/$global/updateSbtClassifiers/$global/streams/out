@@ -703,9 +703,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 1044ms :: artifacts dl 61ms
+[debug] :: resolution report :: resolve 1885ms :: artifacts dl 157ms
 [debug] 	report for default#scalaguice$sbt_2.11;1.0 default produced in /Users/abhsrivastava/IdeaProjects/ScalaGuice/target/resolution-cache/reports/default-scalaguice$sbt_2.11-default.xml
-[debug] 	resolve done (1044ms resolve - 61ms download)
+[debug] 	resolve done (1885ms resolve - 157ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#scalaguice$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1069,6 +1069,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 208ms :: artifacts dl 52ms
+[debug] :: resolution report :: resolve 380ms :: artifacts dl 47ms
 [debug] 	report for default#scalaguice$sources_2.11;1.0 default produced in /Users/abhsrivastava/IdeaProjects/ScalaGuice/target/resolution-cache/reports/default-scalaguice$sources_2.11-default.xml
-[debug] 	resolve done (208ms resolve - 52ms download)
+[debug] 	resolve done (380ms resolve - 47ms download)

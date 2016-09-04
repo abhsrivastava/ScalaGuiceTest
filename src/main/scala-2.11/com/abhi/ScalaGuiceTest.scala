@@ -27,18 +27,16 @@ class CalcModule extends ScalaModule {
 
    @Provides
    def provides() : Calc = {
-      val x = Random
-      val rand = Random.nextInt(10)
-      println("rand: " + rand)
-      rand match {
+      Random.nextInt(10) match {
          case r if r % 2 == 0 => new CalcImpl1()
          case _ => new CalcImpl2()
       }
    }
 }
 
-class CalcLogic @Inject()(val c: Calc) {
-   def add(i: Int, j: Int) : Int = c.add(i, j)
+@Inject
+class CalcLogic @Inject()(val c: Provider[Calc]) {
+   def add(i: Int, j: Int) : Int = c.get.add(i, j)
 }
 
 object ScalaGuiceTest extends App {
